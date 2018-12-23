@@ -2,6 +2,10 @@
 CCT - Command Chat Tool
 
 ## usage
+
+run `python3 cct.PL` to send and recieve message
+
+
 1. choose an `id` to login
 
 2. press `[CTRL + C]` to send msg
